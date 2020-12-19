@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2>Introducing me</h2>
+<p>Hey guys! Welcome to my profile! I'm a .NET software developer currently working at JJ Consulting and recently graduated in computer science.<p>
+  
+---
+<h2>Technologies, Tools and Languages</h2>
 
-<!--
-**fightpaulo/fightpaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>ASP.NET Core</li>
+  <li>Web APIs</li>
+  <li>C#</li>
+  <li>SQL Server</li>
+  <li>MySQL</li>
+  <li>HTML 5</li>
+  <li>CSS 3</li>
+  <li>Javascript</li>
+  <li>JQuery</li>
+  <li>Bootstrap</li>
+  ...
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p><strong>Do you want to know me more? Find me here:<strong></p>
+<a target="_blank" href="https://www.linkedin.com/in/paulo-silas-dos-anjos-oliveira-a0819b9b/">
+  <img align="left" alt="LinkdeIN" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
