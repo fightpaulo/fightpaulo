@@ -1,5 +1,5 @@
 <h2>Introducing me</h2>
-<p>Hey guys! Welcome to my profile! I'm a .NET software developer currently working at <a target="_blank" href="https://www.linkedin.com/in/paulo-silas-dos-anjos-oliveira-a0819b9b/">JJ Consulting</a> and recently graduated in computer science.<p>
+<p>Hey guys! Welcome to my profile! I'm a .NET software developer currently working at <a target="_blank" href="https://www.jjconsulting.com.br">JJ Consulting</a> and recently graduated in computer science.<p>
   
 ---
 <h2>Technologies, Tools and Languages</h2>
