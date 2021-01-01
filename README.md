@@ -1,7 +1,7 @@
 <h2>Introducing me</h2>
 <p>Hey guys! Welcome to my profile! I'm a .NET software developer currently working at <a target="_blank" href="https://www.jjconsulting.com.br">JJ Consulting</a> and recently graduated in computer science.</p>
 
-<p>Here, you can find several projects that I created in order to register my studies about a new framework, language or concept. Feel free to clone or downloand them to explore more.</p>
+<p>Here, you can find several projects that I created in order to register my studies about a new framework, language or concept. Feel free to clone or download them to explore more.</p>
   
 ---
 <h2>Technologies, Tools and Languages</h2>
